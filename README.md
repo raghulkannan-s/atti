@@ -1,1 +1,3 @@
-# atti
+# ATTI
+
+## AI-Powered Realtime Communication Platform
